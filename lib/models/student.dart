@@ -1,7 +1,7 @@
 class Student {
   final String name;
   final String studentId;
-  final String programName; // using "programName" as per spec
+  final String programName;
   final int level;
 
   Student({
